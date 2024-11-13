@@ -123,3 +123,5 @@
 
                     Expected Output
                     Provide sample input and click run to see the correct output for the provided input. Use this to improve your problem
+                    
+6.Reversing Elements Of Queue
